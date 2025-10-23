@@ -24,23 +24,6 @@ Currently pursuing my **M.S. in Computer Science at George Mason University (GPA
 
 ---
 
-### 💼 Work Experience
-
-**Software Engineer — Light & Wonder (Casino Gaming)**  
-_Jul 2022 – Mar 2024_
-
-- Migrated a **Casino Slot Management System** from Windows to Linux, rearchitecting backend components for performance and scalability.  
-- Delivered **70+ bug fixes** and **feature upgrades**, increasing market reach by **20%** across US and APAC.  
-- Built internal **testing tools** and streamlined onboarding through environment setup automation, cutting ramp-up time by **40%**.  
-- 🏆 **Spotlight Award** recipient for impactful engineering delivery.
-
-**SDET Intern — Druva Data Solutions**  
-_Jan 2022 – Jul 2022_
-
-- Automated **API testing** using Pytest and **containerized deployments** via Docker.  
-- Improved test accuracy and scalability through modular test environments.  
-
----
 
 ### 🚀 Featured Projects
 
@@ -53,7 +36,7 @@ _Jan 2022 – Jul 2022_
 - Focused on **AI workflow orchestration** and **production-ready modular design**.
 
 #### 🎮 [TcpServerinC](https://github.com/adityavaidya108/TcpServerinC)
-*A multi-client TCP Server written in C for real-time multiplayer Tic-Tac-Toe.*
+*A multi-client TCP Server written in C*
 
 - Implements **socket programming** for matchmaking and concurrent gameplay.  
 - Supports **multiple active sessions**, leveraging **select()** for I/O multiplexing.  
@@ -81,14 +64,6 @@ _Jan 2022 – Jul 2022_
 
 **Concepts:**  
 `LLM Agents` • `RAG` • `Data Structures` • `Networking` • `Microservices` • `Testing` • `SDLCs`
-
----
-
-### 🏆 Achievements
-
-- 🏅 **Spotlight Award** — Recognized for engineering excellence at Light & Wonder  
-- 🥈 **Mentorship Recognition** — 2nd best mentor under project *Thrive*  
-- 🥉 **CodeCon 3rd Place** — Among 100+ participants in a university level competitive competition  
 
 ---
 
