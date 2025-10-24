@@ -5,17 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:adityavaidyastates@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/adityavaidya108/">LinkedIn</a> •
-  <a href="https://github.com/adityavaidya108">GitHub</a>
+  <a href="mailto:adityavaidyastates@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/adityavaidya108/">LinkedIn</a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I'm a **Software Engineer** passionate about **backend systems**, **low-level programming**, and **Gen AI Applications**.  
-Currently pursuing my **M.S. in Computer Science at George Mason University (GPA: 3.83)**, I aim to build scalable and intelligent products that connect **systems-level performance** with **AI-powered automation**.
+I'm a **Software Developer** passionate about **backend systems**, **low-level programming**, and **Gen AI Applications**.  
+Currently pursuing my **M.S. in Computer Science at George Mason University**, I aim to build scalable and intelligent products that connect **systems-level performance** with **AI-powered automation**.
 
 - 🧩 Curently Exploring **LangChain, LLM Agents, RAG systems**, and **AI-assisted IDEs like Cursor**
 - 🧠 Strong foundation in **systems programming** and **data structures and algorithms**
