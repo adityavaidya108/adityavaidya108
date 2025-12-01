@@ -39,6 +39,13 @@ Currently pursuing my **M.S. in Computer Science at George Mason University**, I
 - Completed MVP: “Upload Resume → Improve → Download PDF”.  
 - Focused on **AI workflow orchestration** and **production-ready modular design**.
 
+#### 🛡️ [JavaScript Security Auditor](https://github.com/adityavaidya108/JsTSSecurityAuditor)
+An AI-powered security scanner that combines regex pattern matching with LLM verification to detect vulnerabilities in JavaScript/TypeScript codebases.
+
+- Uses LangChain + GPT-4o-mini for intelligent vulnerability verification and false positive reduction.
+- Built a hybrid two-phase architecture with deterministic regex scanning followed by AI-powered context-aware analysis.
+- Implemented CLI and Streamlit interfaces with dual analysis modes, including LangGraph agentic workflows and smart caching.
+
 #### 🎮 [TcpServerinC](https://github.com/adityavaidya108/TcpServerinC)
 *A multi-client TCP Server written in C*
 
