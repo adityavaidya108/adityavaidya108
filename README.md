@@ -1,17 +1,17 @@
 <h1 align="center">Aditya Vaidya</h1>
-<h3 align="center">Systems Engineer | AI & Backend Architect</h3>
+<h3 align="center">GTM & Forward Deployed Engineer | AI & Backend Architect</h3>
 
 <p align="center">
-  <em>Specializing in high-performance systems, distributed backend architecture, and autonomous AI agents.</em>
+  <em>Specializing in high-velocity backend systems, distributed data orchestration, and autonomous AI pipelines.</em>
 </p>
 
 ### 🧠 Engineering Focus
 
-I am a **Software Engineer** bridging the gap between **low-level systems performance** and **agentic AI workflows**. With nearly 2 years of production engineering experience, I build scalable infrastructure and intelligent automation tools.
+I bridge the gap between core backend data architecture and production-grade LLM orchestration layers. I treat AI not as a novelty, but as an infrastructure primitive to be composed alongside robust microservices, webhooks, and event-driven data streams.
 
-- **Backend Architecture:** Designing loosely coupled, high-throughput systems using **C# .NET** and **FastAPI**.
-- **Systems Programming:** Implementing raw **TCP/IP protocols**, socket programming, and memory management in **C/C++**.
-- **Generative AI:** Architecting production-ready LLM agents using **LangChain, RAG pipelines**, and **vector databases**.
+- **Data Orchestration & Integration:** Designing loosely coupled, high-throughput pipelines, webhook listeners, and reverse ETL schemas using Python (FastAPI) and C# .NET.
+- **Generative AI Platform Engineering:** Architecting deterministic LLM pipelines using LangChain, prompt engineering matrices, and Pydantic structured parsing loops to handle volatile enterprise data inputs.
+- **Browser Automation & Scraping Infrastructure:** Building robust, headless browser-automation systems using Playwright and Chrome Extension APIs (Manifest v3) to extract and normalize highly unstructured web layouts.
 
 ---
 
