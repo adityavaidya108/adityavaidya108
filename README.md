@@ -1,5 +1,5 @@
 <h1 align="center">Aditya Vaidya</h1>
-<h3 align="center">Solutions Engineer & AI Automation | AI & Backend Engineer</h3>
+<h3 align="center">AI Automation & Solutions Engineering | Backend Systems, LLM Pipelines, Customer-Facing Implementation</h3>
 
 <p align="center">
   <em>Specializing in high-velocity backend systems, technical implementation, and autonomous AI pipelines.</em>
@@ -7,7 +7,7 @@
 
 ### 🧠 Engineering Focus
 
-I bridge the gap between core backend architecture and production-grade AI/LLM systems, translating technical capability into customer-facing solutions. I treat AI not as a novelty, but as an infrastructure primitive to be composed alongside robust microservices, webhooks, and event-driven data pipelines.
+I bridge the gap between core backend architecture and production-shaped AI/LLM systems, translating technical capability into customer-facing solutions. I treat AI not as a novelty, but as an infrastructure primitive to be composed alongside robust microservices, webhooks, and event-driven data pipelines.
 
 - **Data Orchestration & Integration:** Designing loosely coupled, high-throughput pipelines, webhook listeners, and reverse ETL schemas using Python (FastAPI) and C# .NET.
 - **Generative AI Platform Engineering:** Architecting deterministic LLM pipelines using LangChain, prompt engineering matrices, and Pydantic structured parsing loops to handle volatile enterprise data inputs.
