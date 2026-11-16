@@ -1,5 +1,5 @@
 <h1 align="center">Aditya Vaidya</h1>
-<h3 align="center">AI Automation & Solutions Engineering | Backend Systems, LLM Pipelines, Customer-Facing Implementation</h3>
+<h3 align="center">AI Automation & Backend Engineering | Backend Systems, LLM Pipelines, Customer-Facing Implementation</h3>
 
 <p align="center">
   <em>Specializing in high-velocity backend systems, technical implementation, and autonomous AI pipelines.</em>
