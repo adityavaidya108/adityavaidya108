@@ -1,56 +1,60 @@
 <h1 align="center">Aditya Vaidya</h1>
-<h3 align="center">AI Automation & Backend Engineering | Backend Systems, LLM Pipelines, Customer-Facing Implementation</h3>
+<h3 align="center">Solutions, Integration & Forward Deployed Engineer | Python, FastAPI, C#/.NET, SQL, AWS & Linux</h3>
 
 <p align="center">
-  <em>Specializing in high-velocity backend systems, technical implementation, and autonomous AI pipelines.</em>
+  <em>Building production-grade API integrations, cloud/Linux systems, and privacy-first AI workflows.</em>
 </p>
 
 ### 🧠 Engineering Focus
 
-I bridge the gap between core backend architecture and production-shaped AI/LLM systems, translating technical capability into customer-facing solutions. I treat AI not as a novelty, but as an infrastructure primitive to be composed alongside robust microservices, webhooks, and event-driven data pipelines.
+I work at the intersection of backend systems, cloud reliability, and customer-facing technical implementation (Ex-**Light & Wonder**, **Druva** | M.S. CS, **George Mason University**). I focus on turning messy real-world workflows into observable, deterministic, production-ready integrations.
 
-- **Data Orchestration & Integration:** Designing loosely coupled, high-throughput pipelines, webhook listeners, and reverse ETL schemas using Python (FastAPI) and C# .NET.
-- **Generative AI Platform Engineering:** Architecting deterministic LLM pipelines using LangChain, prompt engineering matrices, and Pydantic structured parsing loops to handle volatile enterprise data inputs.
-- **Browser Automation & Scraping Infrastructure:** Building robust, headless browser-automation systems using Playwright and Chrome Extension APIs (Manifest v3) to extract and normalize highly unstructured web layouts.
+- **Enterprise API & CRM Integrations:** Building modular `FastAPI` and `C#/.NET` services, webhook pipelines, and isolated CRM adapters (`HubSpot`, `PostgreSQL`/`Supabase`) with strict auth, PII handling, and audit trails.
+- **Guardrailed Applied AI & RAG:** Architecting production-shaped LLM workflows (`Claude API`, `OpenAI`, `LangChain`, `LangGraph`, `pgvector` HNSW/GIN indexing) where deterministic code enforces business rules and validation.
+- **Production Reliability & Systems:** Hands-on experience with live Windows-to-Linux migrations, distributed log root-cause analysis, `Docker`, `Pytest` API automation, and low-level TCP/networking fundamentals.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Languages & Core
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,postgres,docker,k8s,aws,azure" />
-</a>
+**Languages, Backend & Systems**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,dotnet,c,fastapi,postgres,redis,linux,docker,kubernetes,aws,azure,git" />
+  </a>
+</p>
 
-### AI & Frameworks
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,react,nextjs,git" />
-</a>
+**Integrations, Data & Applied AI**
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,react,nextjs,postman,pytest" />
+  </a>
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🧠 [AutoApply.AI](https://github.com/adityavaidya108/AutoApply.AI)
-*Autonomous Job Application Agent & Platform*
+#### 🔐 [CaseGuard — Privacy-First Document Intake & HubSpot CRM Integration](https://github.com/adityavaidya108/caseguard-legal-intake)
+*Zero-PII-Leakage Intake Pipeline · Python, FastAPI, Claude API, HubSpot CRM API, Supabase (RLS), pytest*
 
-- **Architecture:** Modular **FastAPI** backend designed for loose coupling between LLM agents and job board scrapers.
-- **AI Implementation:** Orchestrated **LangChain + GPT-4** workflows for context-aware resume tailoring and field mapping.
-- **Production Ready:** Implemented MVP pipelines for PDF generation and automated form injection via a Chrome Extension.
+- **In-Memory PII Vault:** Tokenizes sensitive client details in memory (30-min TTL, purged post-sync, zero disk/log persistence) before text ever reaches the LLM.
+- **Deterministic Business Rules:** Enforces critical deadlines, urgency overrides, and task priorities in unit-tested Python code (`pytest`) instead of relying on LLM output.
+- **CRM & Audit Hardening:** Syncs approved Contacts, Deals, Tasks, and custom properties via a swappable HubSpot adapter module and writes non-PII events to an append-only Supabase/PostgreSQL audit log with Row-Level Security (RLS).
+- 🎥 **[Watch the Demo Walkthrough](REPLACE_WITH_YOUR_LOOM_LINK)**
 
-#### 🛡️ [JavaScript Security Auditor](https://github.com/adityavaidya108/JsTSSecurityAuditor)
-*Hybrid Static Analysis & LLM Verification Tool*
+#### 🛡️ [JS/TS Security Auditor](https://github.com/adityavaidya108/JsTSSecurityAuditor)
+*Hybrid Static Analysis & LLM Verification Engine · Python, LangGraph, LangChain, OpenAI, Streamlit*
 
-- **Innovation:** Combined deterministic **Regex scanning** with **LLM-based context verification** to drastically reduce false positives in security audits.
-- **Agentic Workflow:** Implemented **LangGraph** agents to recursively analyze code vulnerabilities and suggest remediation.
-- **Performance:** Built smart caching layers to optimize API token usage and latency.
+- **Hybrid Architecture:** Combines deterministic regex scanning with agentic `LangGraph` verification to cut false positives in JavaScript/TypeScript vulnerability audits.
+- **Dual-Mode & Cost Control:** Supports both CLI and web workflows with response caching to minimize API token overhead and latency.
 
-#### 🎮 [TcpServerinC](https://github.com/adityavaidya108/TcpServerinC)
-*Multi-threaded TCP Server Implementation*
+#### 🌐 [TcpServerinC](https://github.com/adityavaidya108/TcpServerinC)
+*Multi-Client TCP Server & Custom Binary Protocol · C, POSIX/Berkeley Sockets, Linux*
 
--**Systems Depth:** Built a raw TCP server in **C** using **Berkeley Sockets** without high-level networking libraries.
--**Concurrency:** Implemented **I/O Multiplexing (select)** to handle multiple concurrent client sessions efficiently.
--**Protocol Design:** Engineered a custom binary message exchange protocol for real-time matchmaking.
+- **Systems & Networking Depth:** Built a raw TCP server from scratch in **C** using Berkeley Sockets without high-level networking abstractions.
+- **Concurrency:** Implemented `select()`-based I/O multiplexing to manage multiple concurrent client sessions reliably.
+- **Protocol Design:** Designed a custom binary message-exchange protocol for real-time stateful session routing.
 
 ---
 
