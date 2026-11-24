@@ -41,7 +41,7 @@ I work at the intersection of backend systems, cloud reliability, and customer-f
 - **In-Memory PII Vault:** Tokenizes sensitive client details in memory (30-min TTL, purged post-sync, zero disk/log persistence) before text ever reaches the LLM.
 - **Deterministic Business Rules:** Enforces critical deadlines, urgency overrides, and task priorities in unit-tested Python code (`pytest`) instead of relying on LLM output.
 - **CRM & Audit Hardening:** Syncs approved Contacts, Deals, Tasks, and custom properties via a swappable HubSpot adapter module and writes non-PII events to an append-only Supabase/PostgreSQL audit log with Row-Level Security (RLS).
-- 🎥 **[Watch the Demo Walkthrough](REPLACE_WITH_YOUR_LOOM_LINK)**
+- 🎥 **[Watch the Demo Walkthrough](https://www.loom.com/share/188e467efcfa4f9abfa8efcc2159f0ea)**
 
 #### 🛡️ [JS/TS Security Auditor](https://github.com/adityavaidya108/JsTSSecurityAuditor)
 *Hybrid Static Analysis & LLM Verification Engine · Python, LangGraph, LangChain, OpenAI, Streamlit*
